@@ -15,7 +15,10 @@ Por interés personal. No hay ningún interés comercial de por medio.
 * Para la preservación histórica de esta información.
 * Puede ser el comienzo para algo más grande, como por ejemplo completar [Musicbrainz](http://musicbrainz.org/).
 
-## ¿Cómo se puede ayudar?
+## ¿Cómo?
+Se recopilan los datos en un archivo .csv. Más información en el [Wiki del proyecto](https://github.com/ctRl-ES/spanish_hip-hop/wiki).
+
+## ¿Cómo colaborar?
 * Date de alta en github y [edita directamente el archivo](https://github.com/ctRl-ES/spanish_hip-hop/edit/master/lista%20trabajos%20hip-hop%20espa%C3%B1ol.csv).
 * Echa un ojo a los [Issues del proyecto](https://github.com/ctRl-ES/spanish_hip-hop/issues/) y ayuda en alguno.
 * Avísame de fallos o trabajos que faltan en la lista.
