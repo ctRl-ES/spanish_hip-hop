@@ -17,10 +17,11 @@ Por interés personal. No hay ningún interés comercial de por medio.
 
 ## ¿Cómo se puede ayudar?
 * Date de alta en github y [edita directamente el archivo](https://github.com/ctRl-ES/spanish_hip-hop/edit/master/lista%20trabajos%20hip-hop%20espa%C3%B1ol.csv).
+* Echa un ojo a los [Issues del proyecto](https://github.com/ctRl-ES/spanish_hip-hop/issues/) y ayuda en alguno.
 * Avísame de fallos o trabajos que faltan en la lista.
 
-## ¿Qué licencia tiene todo esto?
-CC BY-NC-SA 3.0
+## ¿Qué licencia tiene este proyecto?
+[CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/).
 
 ## ¿Se puede descargar la música de esta lista?
 Desde aquí no se proveen enlaces de descarga. Lrn2Internet.
