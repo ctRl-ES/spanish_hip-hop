@@ -1,22 +1,23 @@
 # spanish_hip-hop
 
 ## ¿Qué es esto?
-Diferentes archivos relacionados con la escena musical Hip-Hop de España.
+Información de los trabajos musicales publicados en la escena Hip-Hop de España.
 
-##¿Qué pretendo?
+##¿Qué se pretende?
 
-Realizar una lista de todos los trabajos de Hip-Hop español tanto en formato profesional como no profesional (LPs, maquetas, mixtapes, etc).
+Realizar una lista de todos los trabajos musicales de Hip-Hop español tanto en formato profesional como no profesional (LPs, maquetas, mixtapes, etc).
 
 ## ¿Por qué?
-Porque me apetece. No hay ningún interés comercial de por medio.
+Por interés personal. No hay ningún interés comercial de por medio.
 
 ## ¿Para qué?
-Para la preservación histórica de esta información.
+* Para la preservación histórica de esta información.
+* Puede ser el comienzo para algo más grande, como por ejemplo completar [Musicbrainz](http://musicbrainz.org/).
 
-## ¿Cómo puedes ayudar?
+## ¿Cómo se puede ayudar?
 * Avisándome de fallos en la lista de trabajos.
 * Avisándome de trabajos que faltan en la lista.
-* Haciendo pull request.
+* Date de alta en github y [edita directamente el archivo](https://github.com/ctRl-ES/spanish_hip-hop/edit/master/lista%20trabajos%20hip-hop%20espa%C3%B1ol.csv).
 
 ## ¿Qué licencia tiene todo esto?:
 CC BY-NC-SA 3.0
