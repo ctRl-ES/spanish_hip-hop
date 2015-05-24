@@ -5,7 +5,8 @@ Información de los trabajos musicales publicados en la escena Hip-Hop de Españ
 
 ##¿Qué se pretende?
 
-Realizar una lista de todos los trabajos musicales de Hip-Hop español tanto en formato profesional como no profesional (LPs, maquetas, mixtapes, etc).
+* Realizar una lista de todos los trabajos musicales de Hip-Hop español tanto en formato profesional como no profesional (LPs, maquetas, mixtapes, etc).
+* De cada trabajo al menos obtener: Artista, fecha de publicación y tipo de trabajo (LP/Maqueta/...).
 
 ## ¿Por qué?
 Por interés personal. No hay ningún interés comercial de por medio.
@@ -15,11 +16,10 @@ Por interés personal. No hay ningún interés comercial de por medio.
 * Puede ser el comienzo para algo más grande, como por ejemplo completar [Musicbrainz](http://musicbrainz.org/).
 
 ## ¿Cómo se puede ayudar?
-* Avisándome de fallos en la lista de trabajos.
-* Avisándome de trabajos que faltan en la lista.
 * Date de alta en github y [edita directamente el archivo](https://github.com/ctRl-ES/spanish_hip-hop/edit/master/lista%20trabajos%20hip-hop%20espa%C3%B1ol.csv).
+* Avísame de fallos o trabajos que faltan en la lista.
 
-## ¿Qué licencia tiene todo esto?:
+## ¿Qué licencia tiene todo esto?
 CC BY-NC-SA 3.0
 
 ## ¿Se puede descargar la música de esta lista?
