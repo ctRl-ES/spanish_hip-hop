@@ -26,9 +26,8 @@ Se recopilan los datos en un [archivo .csv](https://github.com/ctRl-ES/spanish_h
 * Avísame de fallos o trabajos que faltan en la lista.
 * Mándame una lista de la carpeta en la que tengas tu rap español. Puedes obtener dicha lista de este modo:
 ```
-cmd->cd d:\musica\rap_español\->dir /s /b /a:d
+cmd → cd d:\musica\rap_español\ → dir /s /b /a:d > lista_rap_espanol.txt
 ```
-
 
 ## ¿Qué licencia tiene este proyecto?
 [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/).
