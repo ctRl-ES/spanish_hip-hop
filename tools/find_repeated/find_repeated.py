@@ -5,7 +5,7 @@
 @author:    Rubén Hortas Astariz <http://rubenhortas.blogspot.com>
 @contact:   rubenhortas at gmail.com
 @github:    http://github.com/rubenhortas
-@file:      /home/ruben/workspace/git/spanish_hip-hop/tools/find_repeated.py
+@file:      find_repeated.py
 """
 
 # Python version: >= 2.7 & <3
