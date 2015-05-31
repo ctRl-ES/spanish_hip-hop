@@ -24,6 +24,7 @@ class Disk():
     """
     Represents a file entry
     """
+
     artist = None
     title = None
     year = None
@@ -42,6 +43,14 @@ class Disk():
 
 
 def signal_handler(signal, frame):
+    """
+    signal_handler(signal, frame)
+        Sets handlers for asynchronous events.
+    Arguments:
+        - signal: Signal number.
+        - frame:  Current stack frame.
+    """
+
     print '\nStopping...'
     sys.exit(0)
 
