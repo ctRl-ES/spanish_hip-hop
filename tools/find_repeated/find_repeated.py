@@ -48,7 +48,7 @@ def signal_handler(signal, frame):
 
 def __clear_screen():
     """
-    clear_screen()
+    __clear_screen()
         Clears the screen.
     """
 
