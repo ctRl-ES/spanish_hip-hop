@@ -213,12 +213,3 @@ pip-log.txt
 
 #Mr Developer
 .mr.developer.cfg
-
-
-# Ignore everything
-*
-
-# But not these files...
-!lista trabajos hip-hop español.csv
-!tools/
-!README.md
