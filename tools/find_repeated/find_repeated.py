@@ -5,7 +5,7 @@
 @author:    Rubén Hortas Astariz <http://rubenhortas.blogspot.com>
 @contact:   rubenhortas at gmail.com
 @github:    http://github.com/rubenhortas
-@file:      /home/ruben/workspace/git/spanish_hip-hop/tools/find_repeated.py
+@file:      find_repeated.py
 """
 
 # Python version: >= 2.7 & <3
@@ -24,6 +24,7 @@ class Disk():
     """
     Represents a file entry
     """
+
     artist = None
     title = None
     year = None
@@ -42,13 +43,21 @@ class Disk():
 
 
 def signal_handler(signal, frame):
+    """
+    signal_handler(signal, frame)
+        Sets handlers for asynchronous events.
+    Arguments:
+        - signal: Signal number.
+        - frame:  Current stack frame.
+    """
+
     print '\nStopping...'
     sys.exit(0)
 
 
 def __clear_screen():
     """
-    clear_screen()
+    __clear_screen()
         Clears the screen.
     """
 
