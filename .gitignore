@@ -220,3 +220,5 @@ pip-log.txt
 
 # But not these files...
 !lista trabajos hip-hop español.csv
+!tools/
+!README.md
