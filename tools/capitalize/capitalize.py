@@ -34,8 +34,6 @@ STR_EXCEPTIONS = ['BBoy', 'BCM', 'BLK', 'BLS', 'BZN', 'BeatKraken', 'CD',
 ALPHA_MATCH = re.compile("[a-zA-Z \"\(\)]*")
 
 
-# STR_EXCEPTIONS = ['JPelirrojo']
-
 def signal_handler(signal, frame):
     """
     signal_handler(signal, frame)
@@ -126,7 +124,7 @@ def __capitalize_lines():
     fo = open(output_file, 'w+')
 
     for line in f:
-        capitalized_line = __capitalize_line(line)
+        capitalized_line = __capitalize_line(line).rstrip('\n')
         formatted_line = __repl_str_exc(capitalized_line)
         fo.write('{0}\n'.format(formatted_line))
 
