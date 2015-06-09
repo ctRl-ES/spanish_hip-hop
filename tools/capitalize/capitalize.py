@@ -17,7 +17,7 @@ import sys
 
 
 FILE_NAME = "lista trabajos hip-hop español.csv"
-FIRST_CHAR_PATTERN = re.compile("(\"[a-zA-Z])", re.UNICODE)
+FIRST_CHAR_PATTERN = re.compile("(\"[0-9 ]*[a-zA-Z])", re.UNICODE)
 STR_EXCEPTIONS = ['BBoy', 'BCM', 'BLK', 'BLS', 'BZN', 'BeatKraken', 'CD',
                   'CHR', 'CLS', 'CPV', 'CQD', 'DCP', 'DG', 'DJ', 'DLux', 'DNI',
                   'DPC', 'DVD', 'DVTZ', 'DaCream', 'DobleJota', 'EP', 'EUPMC',
